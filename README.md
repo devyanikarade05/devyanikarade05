@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Devyani Karade, I'm a learner, diving into the world of technology and coding. 
+I am Devyani Karade, I am an Aspiring AI Practitioner exploring Artificial Intelligence, Machine Learning, and Data Science. 
   
 
 ---
