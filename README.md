@@ -1,11 +1,11 @@
-# Hi there 🙋🏽‍♀
+# Hi there!🙋🏽‍♀
 
 I am Devyani Karade, I am an Aspiring AI Practitioner exploring Artificial Intelligence, Machine Learning, and Data Science. 
   
 
 ---
 
-## 👩🏽‍💻 **Technical Skills**
+## 👩🏽‍💻**Technical Skills**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
